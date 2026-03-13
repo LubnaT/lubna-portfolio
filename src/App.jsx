@@ -18,7 +18,7 @@ function App() {
       role: "Software Engineer",
       period: "Apr 2025 – Present",
       points: [
-        "Led the Project Management module development team for a portfolio-level platform using Vue.js, Vuetify, Composition API, Vuex, Tailwind CSS, Axios, Java Spring Boot, and SQL.",
+        "Led the Project Management module development team for a Construction level ERP platform using Vue.js, Vuetify, Composition API, Vuex, Tailwind CSS, Axios, Java Spring Boot, and SQL.",
         "Built advanced filtering and reporting for RFI, Punchlist, Change Orders, Purchase Orders, Master Change Orders, and Submittals.",
         "Developed multi-step approval flows, revision tracking, document attachments, print views, and configurable enterprise workflow interfaces.",
         "Engineered reusable tables, modal forms, configurable inputs, and Admin Console support ticket workflows with API-driven state handling.",
