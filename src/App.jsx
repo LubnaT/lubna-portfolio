@@ -137,7 +137,7 @@ function App() {
       `}</style>
 
       <div className="fixed inset-0 -z-10 bg-[radial-gradient(circle_at_top_left,rgba(34,211,238,0.18),transparent_30%),radial-gradient(circle_at_top_right,rgba(168,85,247,0.16),transparent_28%),radial-gradient(circle_at_bottom,rgba(59,130,246,0.16),transparent_25%),linear-gradient(180deg,#060816_0%,#0a1022_45%,#060816_100%)]" />
-      <div className="fixed inset-0 -z-10 opacity-[0.05] [background-image:linear-gradient(rgba(255,255,255,0.7)_1px,transparent_1px),linear-gradient(90deg,rgba(255,255,255,0.7)_1px,transparent_1px)] [background-size:48px_48px]" />
+      <div className="fixed inset-0 -z-10 opacity-[0.05] bg-[linear-gradient(rgba(255,255,255,0.7)_1px,transparent_1px),linear-gradient(90deg,rgba(255,255,255,0.7)_1px,transparent_1px)] [background-size:48px_48px]" />
       <div className="pointer-events-none fixed -left-10 top-20 -z-10 h-40 w-40 rounded-full bg-cyan-400/20 blur-3xl float-slow" />
       <div className="pointer-events-none fixed right-0 top-40 -z-10 h-52 w-52 rounded-full bg-fuchsia-500/20 blur-3xl float-medium" />
       <div className="pointer-events-none fixed bottom-10 left-1/3 -z-10 h-40 w-40 rounded-full bg-blue-500/20 blur-3xl pulse-glow" />
