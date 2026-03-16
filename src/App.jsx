@@ -1,7 +1,7 @@
 function App() {
   const skills = {
     frontend: ["React.js", "Vue.js", "JavaScript(ES6+)", "HTML5", "CSS3", "Tailwind CSS", "Vuetify", "JSX"],
-    backend: ["Java", "Spring Boot", "REST APIs", "Axios", "SQL", "MySQL", "PostgreSQL"],
+    backend: ["Java8", "Spring Boot", "REST APIs", "Axios", "SQL", "MySQL", "PostgreSQL"],
     tools: ["Git", "Bitbucket", "GitHub", "Jira", "Wrike", "Figma", "Azure Web Services"],
   };
 
