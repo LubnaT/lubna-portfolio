@@ -6,7 +6,7 @@ function App() {
   };
 
   const stats = [
-    { label: "Years Experience", value: "5+" },
+    { label: "Years Experience", value: "4+" },
     { label: "Products & Modules", value: "10+" },
     { label: "Companies", value: "4" },
     { label: "Current Focus", value: "Full-Stack Delivery" },
