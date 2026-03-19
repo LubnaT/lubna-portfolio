@@ -176,7 +176,7 @@ function App() {
                 Crafting <span className="gradient-animate bg-gradient-to-r from-cyan-300 via-sky-400 to-fuchsia-400 bg-clip-text text-transparent">beautiful, scalable</span> enterprise products with real-world impact.
               </h2>
               <p className="max-w-3xl text-lg leading-8 text-slate-300 sm:text-xl">
-                Full-stack engineer with 5+ years of experience building project management platforms, healthcare systems, dashboards, API-driven workflows, and reusable frontend architectures using Vue.js, React.js, Java, Spring Boot, and SQL.
+                Full-stack engineer with 4+ years of experience building project management platforms, healthcare systems, dashboards, API-driven workflows, and reusable frontend architectures using Vue.js, React.js, Java, Spring Boot, and SQL.
               </p>
             </div>
 
