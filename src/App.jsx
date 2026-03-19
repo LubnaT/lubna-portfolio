@@ -241,7 +241,7 @@ function App() {
             </div>
             <div className={`rounded-[2rem] border border-white/10 bg-white/[0.05] p-8 text-slate-300 leading-8 backdrop-blur-xl ${fadeInUp}`}>
               <p>
-                I’m a full-stack software engineer with 5+ years of experience delivering enterprise web applications across construction-tech, healthcare, e-commerce, and business platforms. My expertise spans Vue.js and React frontends, Java Spring Boot APIs, SQL-backed systems, and polished workflow-driven interfaces.
+                I’m a full-stack software engineer with 4+ years of experience delivering enterprise web applications across construction-tech, healthcare, e-commerce, and business platforms. My expertise spans Vue.js and React frontends, Java Spring Boot APIs, SQL-backed systems, and polished workflow-driven interfaces.
               </p>
               <p className="mt-4">
                 From leading Project Management module delivery at DigiTech RP to implementing video-calling experiences in healthcare and API-heavy dashboards in previous roles, I focus on building clean, maintainable, and user-centered products that work at scale.
